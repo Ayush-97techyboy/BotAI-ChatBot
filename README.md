@@ -2,7 +2,7 @@
 React based AI ChatBot
 
 
-Overview
+**Overview**
 
 To complete this assessment, you will need to write a ReactJS web application.
 
@@ -11,20 +11,21 @@ web application.
 
 This assessment is expected to take about 6-12 hours to complete.
 
-What to do?
+**What to do?**
 
 Your goal is to implement an application where the user can chat with an AI model. Beyond
 this, the user should be able to give some feedback at each stage of the conversation.
 
-This feedback is multi-fold.
-- The user should be able to like/dislike the AI model's answer using the thumbs
+**This feedback is multi-fold.**- 
+
+The user should be able to like/dislike the AI model's answer using the thumbs
 up/thumbs down buttons. These buttons are hidden and float when the mouse
 hovers over the AI model's response.
 - The user should be able to give a rating out of 5 at the end of the conversation. You
 can get creative here and use a likert scale, or 5 stars, etc.
 - The user should be able to give subjective feedback at the end of the conversation.
 
-The user should be able to have multiple such conversations.
+**The user should be able to have multiple such conversations.**
 
 Once the user is done having that conversation, the chat gets saved. This chat can be
 revisited from a panel on the side/top bar. While viewing a past conversation, the user
@@ -41,15 +42,16 @@ Material etc.
 
 You can mock the AI model response from a custom JSON file which includes the response for a particular question.
 
-Sample Data 
+ 
 
-NOTE: You can use the above sample data and add more key, value pairs if needed. The data present inside the above json file must be there for evaluation purposes.
+**_NOTE: You can use the above sample data and add more key, value pairs if needed. The data present inside the above json file must be there for evaluation purposes.
+**_
 
-Bonus Extensions:
+**Bonus Extensions:**
 
 • The user should be able to toggle between light and dark mode.
 
-Guidelines:
+**Guidelines:**
 
 • Choose any libraries that help you produce the highest quality work in the time
 available.
