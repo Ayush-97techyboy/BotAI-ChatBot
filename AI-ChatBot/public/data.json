@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Hello",
+    "response": "Hi there! How can I help you today?"
+  },
+  {
+    "question": "What is React?",
+    "response": "React is a JavaScript library for building user interfaces."
+  }
+]

@@ -1,0 +1,22 @@
+.feedbackContainer {
+  padding: 20px;
+}
+
+.filterInput {
+  margin-bottom: 20px;
+}
+
+.tableContainer {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.ratingCell {
+  display: flex;
+  align-items: center;
+}
+
+.commentCell {
+  display: flex;
+  align-items: center;
+}
