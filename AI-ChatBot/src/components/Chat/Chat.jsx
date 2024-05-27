@@ -10,7 +10,7 @@ import {
 } from "@mui/material";
 import ThumbUpIcon from "@mui/icons-material/ThumbUp";
 import ThumbDownIcon from "@mui/icons-material/ThumbDown";
-import data from "../../../public/data.json";
+import data from "../../data.json";
 import styles from "./Chat.module.css";
 
 const Chat = () => {
