@@ -19,8 +19,8 @@ export const ChatMessage = ({ message, onFeedback, showFeedback = true }) => {
       <img
         src={
           isUser
-            ? "/src/assets/aloha.png"
-            : "/src/assets/Soul AI.png"
+            ? "/assets/aloha.png"
+            : "/assets/soul-ai.png"
         }
         alt={isUser ? "User" : "Soul AI"}
         className="w-12 h-12 rounded-full flex-shrink-0"

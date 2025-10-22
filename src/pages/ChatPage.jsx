@@ -95,7 +95,7 @@ export const ChatPage = () => {
                 How Can I Help You Today?
               </h2>
               <img
-                src="/src/assets/Soul AI.png"
+                src="/assets/soul-ai.png"
                 alt="Bot AI"
                 className="w-20 h-20 mx-auto"
               />

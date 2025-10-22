@@ -57,7 +57,7 @@ export const Sidebar = ({ onNewChat }) => {
       <nav className="p-4 space-y-4">
         <div className="flex items-center gap-3 pb-4 border-b border-[#d7c7f4]">
           <img
-            src="/src/assets/Soul AI.png"
+            src="/assets/soul-ai.png"
             alt="Bot AI Logo"
             className="w-10 h-10"
           />
