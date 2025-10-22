@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "id": "src/pages/ChatPage.jsx",
+      "label": "ChatPage",
+      "routes": [
+        "/"
+      ],
+      "isRoot": true
+    },
+    {
+      "id": "src/pages/HistoryPage.jsx",
+      "label": "HistoryPage",
+      "routes": [
+        "/history"
+      ]
+    },
+    {
+      "id": "src/pages/FeedbackPage.jsx",
+      "label": "FeedbackPage",
+      "routes": [
+        "/feedback"
+      ]
+    }
+  ],
+  "edges": []
+}
